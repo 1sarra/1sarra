@@ -103,8 +103,14 @@ One segmentation fault at a time. :)
 
 ### 06 / LITTLE CREATURE, BIG CONTRIBUTIONS
 
+<h3 align="center">🐍 My contributions are being hunted!</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1sarra/1sarra/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/1sarra/1sarra/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+    width="100%"
+  />
 </p>
 
 ### 07 / LET'S CONNECT
