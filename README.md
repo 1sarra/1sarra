@@ -90,30 +90,7 @@ Currently exploring the world of low-level programming and learning to think dif
 
 One segmentation fault at a time. :)
 
-### 05 / MY DIGITAL FOOTPRINT
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1sarra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B388EB&icon_color=FF9ACD&text_color=E6E6E6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sarra&layout=compact&hide_border=true&bg_color=0D1117&title_color=B388EB&text_color=E6E6E6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1sarra&hide_border=true&background=0D1117&ring=B388EB&fire=FF9ACD&currStreakLabel=B388EB&sideLabels=E6E6E6&dates=999999" width="70%" />
-</p>
-
-### 06 / LITTLE CREATURE, BIG CONTRIBUTIONS
-
-<h3 align="center">🐍 My contributions are being hunted!</h3>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/1sarra/1sarra/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-    width="100%"
-  />
-</p>
-
-### 07 / LET'S CONNECT
+### 05 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sara-a-jaradat/">
